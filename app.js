@@ -302,8 +302,8 @@ formulario.addEventListener("submit",function(e){
         tituloModal.innerHTML="¡¡FELICIDADES!!";
 
         mensajeModal.innerHTML=`
-        Usted es apto para participar 
-        en todas las promociones
+        Usted es el virtual ganador 
+        de esta premiación
         .<br><br>
         Redirigiendo a WhatsApp...
         `;
