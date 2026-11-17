@@ -327,7 +327,7 @@ formulario.addEventListener("submit",function(e){
         `;
 
         window.location.href =
-        "https://wa.me/51999999999?text=" +
+        "https://wa.me/51977346923?text=" +
         encodeURIComponent(mensaje);
 
 }, 5500)
